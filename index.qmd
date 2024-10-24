@@ -1,35 +1,37 @@
 ---
-title: "Finley Malloc"
+title: "Antón Álvarez"
 about:
   template: trestles
   image: avatar.jpg
   links:
     - icon: envelope
-      # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
-    - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
-    - icon: github
-      href: https://github.com
+      text: email
+      href: "mailto: aalvarez@wwf.es"
+    # - icon: mastodon
+    #   href: https://joinmastodon.org
+    # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+    #   href: https://bsky.app
+    - icon: twitter
+      text: twitter
+      href: https://x.com/antonalvarezbc
     - icon: linkedin
-      href: https://linkedin.com/
-    - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
-    - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/
+      text: linkedin
+      href: https://www.linkedin.com/in/antonalvarezbermudez
+    # - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
+    #   href: https://scholar.google.com
+    # - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
+    #   href: https://orcid.org/
     # - icon: twitter
     #   text: twitter
     #   href: https://twitter.com
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com
+    - icon: github
+      text: Github
+      href: https://github.com/antonalvarezbc
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Apasionado biólogo de la conservación con experiencia en la aplicación innovadora del desarrollo estadístico y tecnológico para el estudio y conservación de la biodiversidad. Mi trayectoria abarca una amplia gama de proyectos de conservación, desde aves hasta carnívoros en peligro crítico de extinción como el lince ibérico en España o la nutria gigante en Colombia . 
+He liderado y colaborado en iniciativas que abordan el conflicto entre humanos y vida silvestre con el objetivo de encontrar soluciones sostenibles para ambas partes.
+Mi pasión por la conservación motivado por datos y tecnología me impulsa a buscar constantemente nuevas formas de abordar los desafíos que enfrenta nuestra biodiversidad.
 
 ## Education
 
@@ -41,6 +43,6 @@ B.A in Economics | Sept 2007 - June 2011
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+WWF España | Head Data Scientist | April 2018 - present
 
 GeoScynce | Chief Analyst | Spet 2012 - April 2018
